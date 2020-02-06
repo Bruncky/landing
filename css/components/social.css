@@ -1,0 +1,18 @@
+.social {
+  text-align: center;
+}
+
+.social-list {
+  list-style: none;
+  padding-left: 0;
+  color: white;
+}
+
+.social-list li {
+  display: inline-block;
+}
+
+.social-list a {
+  color: #1DDD88;
+  font-size: 40px;
+}
